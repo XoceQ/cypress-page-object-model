@@ -3,7 +3,7 @@
 run
 npx wdio run wdio.conf.js
 
-<h2>verify authentication, catalog, registration</h2>
+<h2>verify authentication, catalog, registration tests</h2>
 
 run
 
